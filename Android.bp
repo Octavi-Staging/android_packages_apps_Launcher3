@@ -159,7 +159,8 @@ android_library {
         "libGoogleFeed",
         "view_capture",
         "bcsmartspace-google",
-        "SystemUIPluginLib"
+        "SystemUIPluginLib",
+        "monet"
     ],
     manifest: "AndroidManifest-common.xml",
     sdk_version: "current",
