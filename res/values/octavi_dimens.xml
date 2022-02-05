@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2019-2023 Evolution X
+     Copyright (C) 2019-2023 Octavi OS
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -15,8 +15,6 @@
      limitations under the License.
 -->
 <resources>
-    <color name="disabled_text_color">#66000000</color> <!-- 38% black -->
-    
-    <!-- Appseat -->
-    <color name="appseat_color">#50181c1f</color>
+    <!-- Overview scrolling scale animation -->
+    <dimen name="overview_scroll_scale">0.9</dimen>
 </resources>
