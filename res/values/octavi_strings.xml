@@ -16,4 +16,8 @@
 <resources>
     <!-- Application name -->
     <string name="octavi_home" translatable="false">Octavi Home</string>
+
+    <!-- Smartspace -->
+    <string name="smartspace_pref_title">At a Glance</string>
+    <string name="smartspace_pref_summary">Show smartspace at the top of home screen</string>
 </resources>
