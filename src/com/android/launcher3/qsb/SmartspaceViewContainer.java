@@ -15,7 +15,7 @@ import android.widget.FrameLayout.LayoutParams;
 import com.android.launcher3.CustomLauncher;
 import com.android.launcher3.CustomLauncherModelDelegate;
 
-import com.android.launcher3.CellLayout;
+import com.android.launcher3.celllayout.CellLayoutLayoutParams;;
 import com.android.launcher3.DeviceProfile;
 import com.android.launcher3.Launcher;
 import com.android.launcher3.R;
